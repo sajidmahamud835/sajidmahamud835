@@ -112,15 +112,14 @@ I'm a **Founder-Level Full Stack Engineer** who evolved from MERN, PHP, and Bloc
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sajidmahamud835&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&cache_seconds=86400" alt="GitHub Stats" height="165"/>
+  <img src="https://github-readme-stats-sajidmahamud835s-projects.vercel.app/api?username=sajidmahamud835&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="GitHub Stats" height="165"/>
   <img src="https://streak-stats.demolab.com/?user=sajidmahamud835&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" height="165"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sajidmahamud835&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&cache_seconds=86400" alt="Top Languages"/>
+  <img src="https://github-readme-stats-sajidmahamud835s-projects.vercel.app/api/top-langs/?username=sajidmahamud835&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages"/>
 </p>
 
-<!-- Alternative: GitHub Profile Summary Cards -->
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sajidmahamud835&theme=tokyonight" alt="Profile Summary"/>
 </p>
