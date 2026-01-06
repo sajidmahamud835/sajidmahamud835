@@ -113,7 +113,8 @@ I'm a **Founder-Level Full Stack Engineer** who evolved from MERN, PHP, and Bloc
 
 <p align="center">
   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=sajidmahamud835&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&count_private=true" alt="GitHub Stats" height="165"/>
-  <img src="https://streak-stats.demolab.com?user=sajidmahamud835&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" height="165"/>
+
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sajidmahamud835&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" height="165"/>
 </p>
 
 <p align="center">
